@@ -1,0 +1,6 @@
+captcha
+pillow
+opencv-python
+tesseract
+pytesseract
+tk
